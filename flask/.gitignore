@@ -1,0 +1,14 @@
+e
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+.eggs/
+
+dist/
+build/
+*.egg-info/
